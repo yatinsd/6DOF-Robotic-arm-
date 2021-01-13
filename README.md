@@ -1,1 +1,1 @@
-# 6DOF-Robotic-arm-
+# 6DOF Robotic arm
